@@ -1,3 +1,3 @@
 # Calculadora-JS
 
-JS made html & simple JQuery
+JS made with html & simple JQuery
